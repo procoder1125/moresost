@@ -1,0 +1,17 @@
+/* Your custom styles */
+.peach-gradient {
+    background: -webkit-linear-gradient(50deg,#ffd86f,#fc6262)!important;
+    background: linear-gradient(40deg,#ffd86f,#fc6262)!important;
+}
+
+.btn-rounded {
+    border-radius: 10em;
+}
+
+header.top nav.navbar {
+    background-color: black;
+}
+
+.mb-6 {
+    margin-bottom: 5rem !important;
+}
